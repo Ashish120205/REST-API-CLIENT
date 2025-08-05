@@ -37,3 +37,7 @@ Exception Handling: A try-catch block is used to catch any exceptions that may o
 Resource Management: The Scanner used for user input is properly closed in the finally block to ensure resource cleanup.
 
 This project serves as a foundational exercise in Java for understanding how to perform HTTP operations, handle JSON, and create interactive command-line applications. It is ideal for beginners aiming to bridge the gap between simple input/output Java programs and real-world data integration. The program could be further enhanced by formatting temperature in Celsius, adding support for more detailed forecasts, or allowing repeated queries within a single session.
+
+
+**OUTPUT**
+<img width="1596" height="769" alt="Image" src="https://github.com/user-attachments/assets/d95764b3-7344-421e-8666-270fd292783a" />
